@@ -8,12 +8,7 @@
   "author": "",
   "license": "UNLICENSED",
   "private": true,
-  "workspaces": [
-    "weapp",
-    "website",
-    "packages/components",
-    "packages/data"
-  ],
+  
   "dependencies": {
     "@tarojs/components": "^3.6.8",
     "@tarojs/taro": "^3.6.23",

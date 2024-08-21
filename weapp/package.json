@@ -49,7 +49,9 @@
     "lodash-es": "^4.17.21",
     "mini-html-parser2": "^0.3.0",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "@periodic-table-pro/components": "workspace:*",
+    "@periodic-table-pro/data": "workspace:*"
   },
   "devDependencies": {
     "@babel/core": "^7.18.6",
